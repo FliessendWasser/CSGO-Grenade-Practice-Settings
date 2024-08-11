@@ -1,4 +1,6 @@
-# CSGO-Grenade-Practice-Settings
+# This repository is outdated and moved to the archives. Use at your own risk.
+
+## CSGO-Grenade-Practice-Settings
 
 This is a readme for this repository.
 While it seems that I need a lot of coding knowledge to let this file look good, it ends here.
